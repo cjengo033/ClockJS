@@ -1,0 +1,19 @@
+*{
+  font-family: 'Roboto', sans-serif;
+}
+h1{
+  text-align: center;
+  font-size: 50px;
+}
+h2{
+  display: inline-block;
+  color: aliceblue;
+  font-size: 35px;
+}
+#container-1{
+  
+  text-align: center;
+  background-color: cornflowerblue;
+  border: 10px solid black;
+
+}
